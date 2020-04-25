@@ -4,7 +4,7 @@ Essa é minha primeira aplicação em Dart & Flutter do curso de desenvolvimento
 espero não parar e desenvolver muitos outros aplicativos.
 
 ## Preview
-<img src="https://github.com/Denisvaldo1989/Flutter_Micard/blob/master/images/codeExample.png">
+<img src="https://raw.githubusercontent.com/Denisvaldo1989/MiCard_Flutter/master/images/codeExample.png">
 
 
 ## Getting Started
